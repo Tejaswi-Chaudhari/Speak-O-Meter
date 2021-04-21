@@ -1,1 +1,4 @@
-export { default as Navbar } from './Navbar/Navbar';
+export { default as Header } from './Navbar/Header';
+export { default as Welcome } from './Welcome/Welcome';
+export { default as Contact } from './Contact/Contact';
+export { default as Exercise } from './Exercise/Exercise';
