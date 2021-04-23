@@ -5,7 +5,6 @@ import img from '../Images/sample.jpg';
 
 const History = () => {
     return (
-
         <div>
             <div className="row head-bg">
             <div className="container-fluid order-1 col-6 count-left">

@@ -1,0 +1,31 @@
+h4,
+h5,
+h6 {
+  font-family: "Abel", sans-serif;
+}
+.img {
+  border-radius: 49%;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 30%);
+}
+.imgOne {
+  margin-top: 10px;
+}
+.imgTwo {
+  margin-top: 10px;
+}
+.rowOne {
+  background-color: #b2ecfd;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 30%);
+}
+.rowTwo {
+  background-color: #095a9d;
+  color: white;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 30%);
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+}

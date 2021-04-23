@@ -1,24 +1,3 @@
-h1 {
-  padding-top: 60px;
-}
-.my-3 {
-  color: #001457;
-}
-
-.blood-search {
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.my-4 {
-  color: #001457;
-  padding-top: 100px;
-}
-
-.left {
-  float: left;
-  width: 40%;
-}
-.right {
-  float: right;
+.col1 {
+  margin-top: 5rem;
 }
