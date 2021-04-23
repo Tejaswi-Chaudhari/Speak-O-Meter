@@ -1,6 +1,26 @@
 .navbar {
-  background-color: #004187 !important;
+  background-color: #001457 !important;
 }
 .link {
+  font-size: large;
   font-weight: 600;
+  display: inline;
+  float: right;
+}
+
+@media (min-width: 992px) {
+  .link {
+    margin-left: 2em;
+    margin-right: 6em;
+  }
+  .ml-1 {
+    margin-left: 19em;
+  }
+  .app-name {
+    margin-left: 3em;
+  }
+  .about-us,
+  .contact {
+    margin-left: 1em;
+  }
 }
